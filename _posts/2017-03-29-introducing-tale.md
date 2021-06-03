@@ -9,7 +9,7 @@ sticky: true
 hidden: true
 ---
 
-As a product manager/owner of a product, a service or a feature, when do you get to know something went wrong?
+As a product manager/owner of a product, a service or a feature, when do you get to know something went wrong? <!--more-->
 
 ### Root cause analysis
 
