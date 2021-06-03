@@ -9,8 +9,7 @@ A Product Philosopher specialising in Artificial Intelligence and Machine Learni
 
 ### Read More Here
 <ul>
-  <li>[Blogs](https://github.com/Archana-blog/product).</li>
-  <li>[LinkedIn](www.linkedin.com/in/archana19).</li>
+    <li><a href="https://github.com/Archana-blog/product">Posts</a></li>
+    <li><a href="www.linkedin.com/in/archana19">LinkedIn</a></li>
 </ul>
-
 Thanks for reading!
