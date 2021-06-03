@@ -26,7 +26,7 @@ Once that's done, let's look into the issue -
 
 Taking inspiration from the Cynefin Framework, almost 80% of the issues come under "Simple" contexts. When I say simple, I don't mean easy to diagnose and fix but the "The Known" issues.
 
-![Alt text](assets/Cynefin.jpeg?raw=true "Cynefin Framework")
+![Alt text](https://github.com/Archana-blog/product/blob/05a747e85bc493e73b38466b388637e56b6b0c66/assets/Cynefin.jpeg?raw=true "Cynefin Framework")
 
 “Cynefin, pronounced ku-nev-in, is a Welsh word that signifies the multiple factors in our environment and our experience that influence us in ways we can never understand.” - Dave Snowden
 
