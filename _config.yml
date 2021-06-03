@@ -1,8 +1,8 @@
 # Site settings
-title:          Tale
+title:          Product
 description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+baseurl:        "/product"
+url:            "https://archana-blog.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
