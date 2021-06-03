@@ -33,8 +33,11 @@ Once that's done, let's look into the issue -
 
 Taking inspiration from the Cynefin Framework, almost 80% of the issues come under "Simple" contexts. When I say simple, I don't mean easy to diagnose and fix but the "The Known" issues.
 
+<img src="product/assets/Cynefin.jpeg">
+
 
 “Cynefin, pronounced ku-nev-in, is a Welsh word that signifies the multiple factors in our environment and our experience that influence us in ways we can never understand.” - Dave Snowden
+
 Simple Context (Knowns) -
 
 Your end users are always the first ones to report either through app store, customer queries or service tickets. Quickly check if something was broken, understand from user queries and reviews. If the reviews / tickets did say something was broken, speak with engineering/support team.
