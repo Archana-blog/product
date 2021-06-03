@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "About"
+title: "About Me"
 author: "Archana Kumari"
 permalink: /about/
 ---
 
-A Product Philosopher specialising in Artificial Intelligence and Machine Learning Domain
+I am a Product Philosopher specialising in Artificial Intelligence and Machine Learning Domain
 
 ### Read More Here
 <ul>
