@@ -11,6 +11,8 @@ hidden: true
 
 As a product manager/owner of a product, a service or a feature, when do you get to know something went wrong?
 
+### Root cause analysis
+
 Is it when a mail is sent to you from your CEO asking why the numbers dropped yesterday? Or are you a prompt product manager who looks at your numbers first thing in the morning.
 
 Chances are, you could be in either of the two categories but you must always know the why.
