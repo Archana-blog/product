@@ -1,5 +1,5 @@
 # Site settings
-title:          Product
+title:          My Product Stories
 description:    "Minimal Jekyll theme for storytellers"
 baseurl:        "/product"
 url:            "https://archana-blog.github.io"
