@@ -33,7 +33,7 @@ Once that's done, let's look into the issue -
 
 Taking inspiration from the Cynefin Framework, almost 80% of the issues come under "Simple" contexts. When I say simple, I don't mean easy to diagnose and fix but the "The Known" issues.
 
-<img src="assets/Cynefin.jpeg" alt="Cynefin" class="inline"/>
+<link type="image/png" sizes="32x32" href="{{ "/assets/Cynefin.jpeg.png" | relative_url }}">
 
 
 “Cynefin, pronounced ku-nev-in, is a Welsh word that signifies the multiple factors in our environment and our experience that influence us in ways we can never understand.” - Dave Snowden
