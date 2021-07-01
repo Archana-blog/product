@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What went wrong? - A Product Manager's guide to root cause analysis and crisis management"
+title:  "What went wrong? - A PM guide to root cause analysis and crisis management"
 author: "Archana Kumari"
 comments: true
 tags: Analysis
