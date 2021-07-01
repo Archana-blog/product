@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Internal Tools PM"
+title: "Measuring success for Internal Tools"
 author: "Archana Kumari"
-tags: internal tools
+tags: internal-tools success
 excerpt_separator: <!--more-->
 ---
 
