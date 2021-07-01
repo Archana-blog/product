@@ -16,7 +16,8 @@ Being a PM for an Internal Tool differs a lot from being a PM for consumer or en
 
 For the common consumer or enterprise based tools, we have the Pirate Metrics -
 
-![Alt text](https://github.com/Archana-blog/product/blob/05a747e85bc493e73b38466b388637e56b6b0c66/assets/Cynefin.jpeg?raw=true "Cynefin Framework")
+![Alt text](https://github.com/Archana-blog/product/blob/05a747e85bc493e73b38466b388637e56b6b0c66/assets/pirate-metrics.png?raw=true "Cynefin Framework")
+
 
 Measuring the success of internal tools as suspected, is very different than tracking the usual KPIs. But you still have to be careful about deciding the actionable metrics and don't spend too much time on Vanity Metrics.
 
