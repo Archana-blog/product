@@ -1,138 +1,115 @@
 ---
 layout: post
-title: "Example Content"
-author: "Chester"
-tags: Example
+title: "Internal Tools PM"
+author: "Archana Kumari"
+tags: internal tools
 excerpt_separator: <!--more-->
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt ornare nibh, non elementum augue tempus eget. Pellentesque tempus scelerisque iaculis.<!--more--> Nullam interdum ultricies nibh quis sollicitudin. Donec ornare fermentum facilisis. Ut at sem ac sem imperdiet varius a eget tortor. Nam eu augue eget orci semper maximus in eget augue. Mauris ornare, nisl ut suscipit consectetur, mi quam interdum tellus, at rutrum quam eros ultrices mi.
+Being a PM for an Internal Tool differs a lot from being a PM for consumer or enterprise tools. Here your co-workers are your users. <!--more-->
 
-# Headers
-{% highlight markdown %}
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
-{% endhighlight %}
+### Benefits of being an Internal Tool PM -
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+* Conducting User Interviews is ridiculously easily (Since you know where your users sit in the office 😉)
+* You usually understand and know the problem you are trying to solve beforehand because you yourself are also a user.
+* You don't have to spend hours and days to find the product market fit. You know what is the demand, you just need to find the best solution.
 
-# Text formatting
-{% highlight markdown %}
-- **Bold**
-- _Italics_
-- ~~Strikethrough~~
-- <ins>Underline</ins>
-- <sup>Superscript</sup>
-- <sub>Subscript</sub>
-- Abbreviation: <abbr title="HyperText Markup Language">HTML</abbr>
-- Citation: <cite>&mdash; Chester How</cite>
-{% endhighlight %}
+For the common consumer or enterprise based tools, we have the Pirate Metrics -
 
-- **Bold**
-- _Italics_
-- ~~Strikethrough~~
-- <ins>Underline</ins>
-- <sup>Superscript</sup>
-- <sub>Subscript</sub>
-- Abbreviation: <abbr title="HyperText Markup Language">HTML</abbr>
-- Citation: <cite>&mdash; Chester How</cite>
 
-# Lists
-{% highlight markdown %}
-1. Ordered list item 1
-2. Ordered list item 2
-3. Ordered list item 3
 
-* Unordered list item 1
-* Unordered list item 2
-* Unordered list item 3
-{% endhighlight %}
+Measuring the success of internal tools as suspected, is very different than tracking the usual KPIs. But you still have to be careful about deciding the actionable metrics and don't spend too much time on Vanity Metrics.
 
-1. Ordered list item 1
-2. Ordered list item 2
-3. Ordered list item 3
+Here are few things that I measure when I have to define success of my internal tools.
 
-* Unordered list item 1
-* Unordered list item 2
-* Unordered list item 3
+## Quantitative KPIs -
 
-# Links
-{% highlight markdown %}
-Check out tale on [GitHub](https://github.com/chesterhow/tale).
-{% endhighlight %}
+### User acquisition -
 
-Check out tale on [GitHub](https://github.com/chesterhow/tale).
+1. Acquisition metric is a little tricky to calculate for internal tools. There might be cases where there is no direct acquisition cost with respect to marketing. However, sometimes I measure cost in terms of time and effort. For example, hours spent on training, internal marketing through one-on-one channels, meetings, team gatherings, mails etc.
 
-# Images
-{% highlight markdown %}
-![Placeholder image](https://placehold.it/800x400 "Placeholder image")
+Customer Acquisition Cost/Effort (CAC/CAE) - Divide your total acquisition costs by the number of new customers
 
-![Image with caption](https://placehold.it/700x400 "Image with caption")
-_This is an image with a caption_
-{% endhighlight %}
+If you have organised say 10 sessions for marketing, training and education of 1 hour each. If the prep time is 1 additional hour for each session. Let's assume you gained 10 new users per session. Then you can have rough estimation of Customer Acquisition Effort.
 
-![Placeholder image](https://placehold.it/800x400 "Placeholder image")
+CAE = 20 hours/100 users = 0.2 Hours or 12 mins for every new user
 
-![Image with caption](https://placehold.it/700x400 "Image with caption")
-_This is an image with a caption_
+You can also include any logistics cost/effort as well.
 
-# Code and Syntax Highlighting
-Use back-ticks for `inline code`. Multi-line code snippets are supported too through Pygments.
+2. User Adoption -
 
-{% highlight js %}
-// Sample javascript code
-var s = "JavaScript syntax highlighting";
-alert(s);
-{% endhighlight %}
+* Number of people registered on your tool.
+* Number of Business Teams registered on your tool.
+* Once your tool/feature matures, here is a better metric since simply tracking the number of users coming to your platform might not give you anything actionable -
 
-{% highlight python %}
-# Sample python code
-s = "Python syntax highlighting"
-print s
-{% endhighlight %}
+Adoption Rate - The percentage of new users
+Adoption Rate = number of new users / total number of users.
 
-Adding `linenos` to the highlight tag enables line numbers.
+* Time to Start - On an average how much time it takes for user to start using the tool (You might have to define what "Start" means for your tool, I measure the time difference between acquiring required access and the first time user logged into the tool).
+* Activation Time - On an average how much time it takes a new user to complete their first task on your tool.
 
-{% highlight js  linenos %}
-// Sample javascript code
-var s = "JavaScript syntax highlighting";
-alert(s);
-{% endhighlight %}
+3. User Engagement -
 
-# Blockquotes
-{% highlight markdown %}
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+* Number of users / Business Teams logging daily in your tool
+* Number of hours users / Business Teams spending on your tool
 
-{% endhighlight %}
+In some type of tools - Number of tasks completed per hour / day / weekly
+Number of people using your tool daily/weekly/monthly/yearly (Define user segments based on usage, you might have highly active, active, passive, occasional users)
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+4. User Satisfaction -
 
-# Horizontal Rule & Line Break
-{% highlight markdown %}
-Use `<hr>` for horizontal rules
+* Net Promoter Score (NPS) - Subtract the percentage of Detractors from the percentage of Promoters. The score is a whole number that ranges from -100 to 100, and indicates customer happiness.
 
-<hr>
+* Customer Satisfaction Score (CSAT) - Respondents can usually rate their satisfaction with answers in the “Very Satisfied – Very Unsatisfied” range. Alternatively, you can also let respondents rate their answers in the 1-5 or 1-10 range.
 
-and `<br>` for line breaks.
+* Responsiveness/Service -
+** Number of tickets raised through Platforms such as ServiceNow/Jira
+** Number of User Support Queries
+Categories of User Support Queries
+Average resolution time
+Average reply time
+First contact resolution rate
+Replies per resolution
+Support Cost
 
-<br>
-{% endhighlight %}
+* Performance -
+** Service Availability - Percentage of actual uptime (in hours) of service relative to the total numbers of planned uptime (in hours).
+** % of planned Outages - Percentage of outage (unavailability) due to implementation of planned changes,
+[Outage due to planned changes] / [Total Outage Hours]
+** % of unplanned Outages - [Outage due to unplanned changes] / [Total Outage Hours]
+% of availability Service Level Agreements (SLAs) met
+Number of open vulnerabilities - Infrastructure / Servers
+% of (critical) components with automated availability monitoring
+% of critical components not covered by a defined availability plan
 
-Use `<hr>` for horizontal rules
+5. Retention -
 
-<hr>
+* Customer Churn Rate (CCR) - The percentage of customers that have been lost over a specific period of time.
+* Customer Retention Rate (CRR) - The percentage of customers staying with you over time.
+* Loyal Customer Rate (LCR) - Your loyal customer rate (LCR) allows you to define which customers are truly loyal to you. They will always be the first one to try out new features. They will always give you constructive feedback.
+* Time Between usage surge of users
+* Customer Lifetime Value (CLV) - Usually it refers to how much revenue is generated by a single customer. But based on your tool goal you can tweak its meaning. For example, there was one tool whose primary purpose was to build a model. I could say the number of models built and deployed by the user using my tool is my tool's CLV.
 
-and `<br>` for line breaks.
+6. Revenue -
 
-<br>
+For internal tools, most of the time you might not be focussing on growth in revenue, profit or cash flow.
+But you should definitely track you ROI(Return on Investments). In case of internal tools ROI benefits might not be very evident in monetary terms but you can measure the benefits in terms of the metrics that can be measured in your favour. Make a compelling case for your tools and set goals.
 
-_The end_
+Sometimes we also take pride in calculating the below but it varies from time to time -
+
+* Number of features delivered over a quarter/year.
+* Number of user pain points and direct/indirect users feedback got incorporated
+* Number of features promised vs actually delivered
+
+## Some Qualitative KPIs -
+Quantitative metrics answers the what and how much type of questions but with Qualitative metrics you will know the why. Remember to talk to your users, potential or new, understand their sentiments and never skew their answers.
+
+### User Feedback - 
+You can ask users direct feedback through mails/direct interactions. If you have any forums such as Confluence/Internal Discovery platforms. You can look at the ratings/reviews provided by the users. Qualitative data can be captured by -
+
+* User Surveys
+* Focus Groups
+* Dropping by your users desk and taking them for a coffee
+
+## Final Thoughts
+The challenges faced by internal tools PM are very different than consumer facing PMs. The KPIs are different in both cases but some common patterns can always be there. You should also consider the possibility that your internal products may one day be commercialised and become customer facing. Have a clear roadmap and a vision for your internal products, find the one metric that matters, stay competitive, scale effectively, drive value for your business and bring digital transformation.
