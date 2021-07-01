@@ -24,9 +24,7 @@ Here are few things that I measure when I have to define success of my internal 
 
 ## Quantitative KPIs -
 
-### User acquisition -
-
-1. Acquisition metric is a little tricky to calculate for internal tools. There might be cases where there is no direct acquisition cost with respect to marketing. However, sometimes I measure cost in terms of time and effort. For example, hours spent on training, internal marketing through one-on-one channels, meetings, team gatherings, mails etc.
+1. User acquisition - Acquisition metric is a little tricky to calculate for internal tools. There might be cases where there is no direct acquisition cost with respect to marketing. However, sometimes I measure cost in terms of time and effort. For example, hours spent on training, internal marketing through one-on-one channels, meetings, team gatherings, mails etc.
 
 Customer Acquisition Cost/Effort (CAC/CAE) - Divide your total acquisition costs by the number of new customers
 
@@ -42,8 +40,8 @@ You can also include any logistics cost/effort as well.
 * Number of Business Teams registered on your tool.
 * Once your tool/feature matures, here is a better metric since simply tracking the number of users coming to your platform might not give you anything actionable -
 
-Adoption Rate - The percentage of new users
-Adoption Rate = number of new users / total number of users.
+    * Adoption Rate - The percentage of new users
+    * Adoption Rate = number of new users / total number of users.
 
 * Time to Start - On an average how much time it takes for user to start using the tool (You might have to define what "Start" means for your tool, I measure the time difference between acquiring required access and the first time user logged into the tool).
 * Activation Time - On an average how much time it takes a new user to complete their first task on your tool.
@@ -63,24 +61,24 @@ Number of people using your tool daily/weekly/monthly/yearly (Define user segmen
 * Customer Satisfaction Score (CSAT) - Respondents can usually rate their satisfaction with answers in the “Very Satisfied – Very Unsatisfied” range. Alternatively, you can also let respondents rate their answers in the 1-5 or 1-10 range.
 
 * Responsiveness/Service -
-** Number of tickets raised through Platforms such as ServiceNow/Jira
-** Number of User Support Queries
-Categories of User Support Queries
-Average resolution time
-Average reply time
-First contact resolution rate
-Replies per resolution
-Support Cost
+* Number of tickets raised through Platforms such as ServiceNow/Jira
+* Number of User Support Queries
+    * Categories of User Support Queries
+    * Average resolution time
+    * Average reply time
+    * First contact resolution rate
+    * Replies per resolution
+    * Support Cost
 
 * Performance -
-** Service Availability - Percentage of actual uptime (in hours) of service relative to the total numbers of planned uptime (in hours).
-** % of planned Outages - Percentage of outage (unavailability) due to implementation of planned changes,
-[Outage due to planned changes] / [Total Outage Hours]
-** % of unplanned Outages - [Outage due to unplanned changes] / [Total Outage Hours]
-% of availability Service Level Agreements (SLAs) met
-Number of open vulnerabilities - Infrastructure / Servers
-% of (critical) components with automated availability monitoring
-% of critical components not covered by a defined availability plan
+    * Service Availability - Percentage of actual uptime (in hours) of service relative to the total numbers of planned uptime (in hours).
+    * % of planned Outages - Percentage of outage (unavailability) due to implementation of planned changes,
+          [Outage due to planned changes] / [Total Outage Hours]
+    * % of unplanned Outages - [Outage due to unplanned changes] / [Total Outage Hours]
+    * % of availability Service Level Agreements (SLAs) met
+    * Number of open vulnerabilities - Infrastructure / Servers
+    * % of (critical) components with automated availability monitoring
+    * % of critical components not covered by a defined availability plan
 
 5. Retention -
 
