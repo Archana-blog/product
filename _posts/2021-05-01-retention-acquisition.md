@@ -2,11 +2,8 @@
 layout: post
 title:  "How does Retention effects acquisition?"
 author: "Archana Kumari"
-comments: true
 tags: retention acquisition
 excerpt_separator: <!--more-->
-sticky: true
-hidden: true
 ---
 
 Retention is very closely related to acquisition. 
