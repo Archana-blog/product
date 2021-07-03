@@ -2,6 +2,7 @@
 layout: post
 title: "About Me"
 author: "Archana Kumari"
+permalink: /about/
 ---
 
 I am a Product Philosopher specialising in Artificial Intelligence and Machine Learning Domain
