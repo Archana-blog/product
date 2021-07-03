@@ -11,7 +11,7 @@ These days a product is usually successful if it has a growth based core with su
 <!--more-->
 
 ### 1. Retention directly drives acquisition.  
-A lot of products today heavily rely on viral loops. A viral loop generally refers to when the new users acquired by a product start referring to their friends and a part of these referred users also joins the product. Now the cycle repeats for these newly acquired users as well. The longer the retention of the users, the more these users will refer to new users. Increase in retention causes more viral touch points in the customer life cycle.
+A lot of products today heavily rely on <a href="https://archanakumari.blog/2021-05-02/viral-loop"> viral loops</a>. A viral loop generally refers to when the new users acquired by a product start referring to their friends and a part of these referred users also joins the product. Now the cycle repeats for these newly acquired users as well. The longer the retention of the users, the more these users will refer to new users. Increase in retention causes more viral touch points in the customer life cycle.
 
 New Sign ups → Referrals/Shares → click on referrals/shares
 
