@@ -27,7 +27,15 @@ Increased retention → more upgrades → more revenue → Increased LTV
 Increased retention → longer subscription → more revenue → Increased LTV
 
 3. Monetisation models are powered by engagement and retention
-A more engaged user drives more business. Consider a transactional model based product such as Zomato. Suppose there are two companies A and B in this category. Company A has 100 active users who order at least 3 times a week each worth 100 Rupees. Company B has 200 active users who order once a week each worth 100 Rupees. Company A will have a total of 30,000 weekly revenue while Company A despite having more users will make 20,000 as weekly revenue. The same logic applies to other types of models such as ad based businesses.
+
+A more engaged user drives more business. Consider a transactional model based product such as Zomato. 
+
+Suppose there are two companies A and B in this category. 
+Company A has 100 active users who order at least 3 times a week each worth 100 Rupees. 
+Company B has 200 active users who order once a week each worth 100 Rupees. 
+Company A will have a total of 30,000 weekly revenue while Company A despite having more users will make 20,000 as weekly revenue. 
+
+The same logic applies to other types of models such as ad based businesses.
 
 In Summary, as a user becomes more engaged a business can monetise them more depending on the model.
 
