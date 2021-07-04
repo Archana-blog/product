@@ -25,6 +25,6 @@ Here are three points that kept coming up frequently -
 * Example → Company A has one million new users with 85% retention, Company B has 2 million new users with 65% retention. It might look like Company B is doing well in the short term but if we extrapolate the graph it will be evident soon that Company A will eventually do better in the long term.
 
 <img src="https://github.com/Archana-blog/product/blob/28395dc720549868df6aa7af225b806de439850c/assets/retention.png" alt="retention" width="500"/>
-![Alt text](https://github.com/Archana-blog/product/blob/28395dc720549868df6aa7af225b806de439850c/assets/retention.png?raw=true =250x)
+![Alt text](https://github.com/Archana-blog/product/blob/28395dc720549868df6aa7af225b806de439850c/assets/retention.png?raw=true width="400" height="790")
 
 In Summary, Retention is not analysed carefully and can break a company. It should be prioritised keeping long term goals in mind. Retention metrics should be tracked holistically. Lastly, retention breadth as well as depth both are important for survival.
