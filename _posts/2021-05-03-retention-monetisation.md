@@ -8,9 +8,9 @@ excerpt_separator: <!--more-->
 
 Retention is powerful for a business. Growth is determined by how efficiently a business is driving retention and engagement Retention directly drives monetisation, here is how. <!--more-->
 
-1. The obvious reason is retention gives more touch points for monetisation.
+### 1. The obvious reason is retention gives more touch points for monetisation.
 
-2. Engagement helps with longer retention, and with higher retention powers more monetisation. 
+### 2. Engagement helps with longer retention, and with higher retention powers more monetisation. 
 
 Consider various examples under categories such as freemium, ad, transactional and subscription. In each category, the longer the retention is the higher is the LTV.
 
@@ -26,7 +26,7 @@ Increased retention → more upgrades → more revenue → Increased LTV
 
 Increased retention → longer subscription → more revenue → Increased LTV
 
-3. Monetisation models are powered by engagement and retention
+### 3. Monetisation models are powered by engagement and retention
 
 A more engaged user drives more business. Consider a transactional model based product such as Zomato. 
 
