@@ -31,4 +31,4 @@ A more engaged user drives more business. Consider a transactional model based p
 
 In Summary, as a user becomes more engaged a business can monetise them more depending on the model.
 
-**Every increase of retention-engagement will improve the growth model of the business.
+> Every increase of retention-engagement will improve the growth model of the business.
