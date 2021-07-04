@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Viral Loops, How to find them?"
+title: "How does retention and engagement helps you make more money?"
 author: "Archana Kumari"
-tags: viral
+tags: monetisation retention
 excerpt_separator: <!--more-->
 ---
 
