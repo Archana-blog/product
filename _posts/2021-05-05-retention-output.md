@@ -16,7 +16,7 @@ If we work from the outside in, we might run into various issues such as going a
 
 To identify retention by working inside out, let's understand the layers.
 
-1. The innermost layer consists of the core behaviour of the user (Qualitative). Read more details here and here.
+1. The innermost layer consists of the core behaviour of the user (Qualitative). Read more details <a href="https://archanakumari.blog/2021-05-06/core-behaviour">here</a> and <a href="https://archanakumari.blog/2021-05-07/different-user-segments">here</a>.
 2. The second layer from inside is when we define retention and analyse it (Quantitative)
 3. Once we have our retention defined we should define our engagement Strategies to build the user habit
 4. The fourth layer is about activation. We want to activate our users and move them to step 3 above as quickly as possible.
