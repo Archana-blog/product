@@ -76,7 +76,7 @@ Note that the button clicks are stateless. The message is sent from the front en
 
 Let's go through an example of how you can create a complex interactive dashboard with widgets.  Create a dataframe with your choice of data. Here I have taken an example of importing data with medium article statistics. With just a slider and drop-down widget, you can easily play around with your dataframe. With the help of the interact function, you can easily manipulate data without writing additional code. 
 
-Check out the demo [here](https://hub.gke2.mybinder.org/user/dhankie-notebooks-uto9gqfg/notebooks/ipywidgets_demo.ipynb)
+Check out the demo [here](https://mybinder.org/v2/gh/Dhankie/notebooks.git/HEAD)
 
 Here is a sample -
 
@@ -92,7 +92,7 @@ Here is a sample -
 
 Now let's see how you can create interactive plots using widgets. With widgets you can extend the power of plotly library. Plotly's python API can be used to plot inside your Jupyter Notebook. Here I have called the plot with iplot function which automatically generates an interactive version of the plot inside the Notebook. Here I have used selection widget. A list can be passed as values to the selection widget. You can specify the enum of the selectable options by passing a list. The options can be either (label, value) pairs, or simply values for which the labels are derived by calling str).
 
-Check out the demo [here](https://hub.gke2.mybinder.org/user/dhankie-notebooks-uto9gqfg/notebooks/ipywidgets_demo.ipynb)
+Check out the demo [here](https://mybinder.org/v2/gh/Dhankie/notebooks.git/HEAD)
 
 Here is a sample -
 
@@ -100,7 +100,7 @@ Here is a sample -
 
 Here is another powerful example to create heatmap and explore your data. A heatmap is slightly more interesting way to represent data.  Data values are represented as colors in heatmap. Heatmap uses color in order to represent a value. This is a great tool to assist when you have a large volume of data.
 
-Check out the demo [here](https://hub.gke2.mybinder.org/user/dhankie-notebooks-uto9gqfg/notebooks/ipywidgets_demo.ipynb)
+Check out the demo [here](https://mybinder.org/v2/gh/Dhankie/notebooks.git/HEAD)
 
 Here is a sample -
 
