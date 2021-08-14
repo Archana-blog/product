@@ -80,9 +80,7 @@ Let's go through an example of how you can create a complex interactive dashboar
 
 Check out the demo [here](https://hub.gke2.mybinder.org/user/dhankie-notebooks-uto9gqfg/notebooks/ipywidgets_demo.ipynb)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5b448c6e-d852-4628-a6d4-5413322871df/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5b448c6e-d852-4628-a6d4-5413322871df/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5aaf7974-b8e2-440d-b501-6f795984d708/Untitled.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5aaf7974-b8e2-440d-b501-6f795984d708/Untitled.gif)
+!(https://github.com/Archana-blog/product/blob/d3264017492acbdc076305f0d8f3a83d1db8e8c3/assets/slider.gif)
 
 Pretty impressive, right? Now let's have look at more examples of widgets to analyze and explore data. This widget can help you find correlations between columns. The corr function computes the pairwise correlation of columns, excluding the NA/null values. Note that correlation of a variable with itself is 1.
 
