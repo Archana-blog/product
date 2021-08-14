@@ -6,7 +6,7 @@ tags: internal-tools success
 excerpt_separator: <!--more-->
 ---
 
-If you have tried to create interactions in your Jupyter Notebook turns out you might have heard about Ipython widgets. In this blog, let's explore ipywidgets, how you can create interactive dashboards with them and lastly how easily you can collaborate on your notebooks with your peers and leaders.
+If you have tried to create interactions in your Jupyter Notebook turns out you might have heard about Ipython widgets. In this blog, let's explore ipywidgets, how you can create interactive dashboards with them and lastly how easily you can collaborate on your notebooks with your peers and leaders. <!--more-->
 
 ## What are ipywidgets?
 
