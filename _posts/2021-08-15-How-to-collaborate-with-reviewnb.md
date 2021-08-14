@@ -42,7 +42,7 @@ jupyter nbextension enable --py widgetsnbextension
 
 Here is the expected output once you run the commands in your notebook -
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/99684270-3c13-4771-a478-b776525ae0b9/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/99684270-3c13-4771-a478-b776525ae0b9/Untitled.png)
+![](https://github.com/Archana-blog/product/blob/9590396cc9af0e30ad12a384f684fc4f2e53609b/assets/download.png)
 
 You can find more details on installation [here](https://ipywidgets.readthedocs.io/en/stable/index.html) 
 
@@ -52,9 +52,7 @@ Here is a very simple example of a widget.
 
 You can create a slider interaction with just these two lines of code.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/78a58517-e5ef-42e7-b360-c054c4f37452/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/78a58517-e5ef-42e7-b360-c054c4f37452/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/843e4eb6-6413-48d9-b9dd-78416f143110/Untitled.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/843e4eb6-6413-48d9-b9dd-78416f143110/Untitled.gif)
+![](https://github.com/Archana-blog/product/blob/9590396cc9af0e30ad12a384f684fc4f2e53609b/assets/simple.gif)
 
 ## Interacting with Widgets
 
@@ -62,7 +60,7 @@ The widget.IntSlider() function only displays the slider. Let's see how we can i
 
 ipywidgets.interact() automatically generates UI controls for function arguments. It calls the function with the arguments whenever we want to manipulate the controls interactively. First step is to define a function in order to use interact. Here is a very simple way to interact with slider -
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/164589a9-8d7f-4f7a-b287-ee1858a1ec6f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/164589a9-8d7f-4f7a-b287-ee1858a1ec6f/Untitled.png)
+![](https://github.com/Archana-blog/product/blob/9590396cc9af0e30ad12a384f684fc4f2e53609b/assets/interact.png)
 
 ## Widgets Events
 
@@ -72,7 +70,7 @@ Here is an example of the button widget. The button can be used to take care of 
 
 Note that the button clicks are stateless. The message is sent from the front end to the back end once the button is pressed. You can use the output widget to print the message. Here is how you can show the message once you click on the button -
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bd953644-4361-442d-86bb-230d4925c3d8/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bd953644-4361-442d-86bb-230d4925c3d8/Untitled.png)
+![](https://github.com/Archana-blog/product/blob/9590396cc9af0e30ad12a384f684fc4f2e53609b/assets/event.png)
 
 ## Creating complex interactive dashboards for Analysis
 
@@ -80,31 +78,33 @@ Let's go through an example of how you can create a complex interactive dashboar
 
 Check out the demo [here](https://hub.gke2.mybinder.org/user/dhankie-notebooks-uto9gqfg/notebooks/ipywidgets_demo.ipynb)
 
+Here is a sample -
+
 ![Example](https://github.com/Archana-blog/product/blob/d3264017492acbdc076305f0d8f3a83d1db8e8c3/assets/slider.gif)
 
 Pretty impressive, right? Now let's have look at more examples of widgets to analyze and explore data. This widget can help you find correlations between columns. The corr function computes the pairwise correlation of columns, excluding the NA/null values. Note that correlation of a variable with itself is 1.
 
 Check out the demo [here](https://hub.gke2.mybinder.org/user/dhankie-notebooks-uto9gqfg/notebooks/ipywidgets_demo.ipynb)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/53b15832-894a-4710-9335-73933895f283/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/53b15832-894a-4710-9335-73933895f283/Untitled.png)
+Here is a sample -
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b7a6504f-7143-4558-8ea0-33f9154d4f23/Untitled.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b7a6504f-7143-4558-8ea0-33f9154d4f23/Untitled.gif)
+![](https://github.com/Archana-blog/product/blob/9590396cc9af0e30ad12a384f684fc4f2e53609b/assets/correlation.gif)
 
 Now let's see how you can create interactive plots using widgets. With widgets you can extend the power of plotly library. Plotly's python API can be used to plot inside your Jupyter Notebook. Here I have called the plot with iplot function which automatically generates an interactive version of the plot inside the Notebook. Here I have used selection widget. A list can be passed as values to the selection widget. You can specify the enum of the selectable options by passing a list. The options can be either (label, value) pairs, or simply values for which the labels are derived by calling str).
 
 Check out the demo [here](https://hub.gke2.mybinder.org/user/dhankie-notebooks-uto9gqfg/notebooks/ipywidgets_demo.ipynb)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e38d9ba-cce5-4420-9e54-c4a2c4c83ad7/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e38d9ba-cce5-4420-9e54-c4a2c4c83ad7/Untitled.png)
+Here is a sample -
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f2e189aa-827e-47ec-8e6b-2d1883e67d13/Untitled.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f2e189aa-827e-47ec-8e6b-2d1883e67d13/Untitled.gif)
+![](https://github.com/Archana-blog/product/blob/9590396cc9af0e30ad12a384f684fc4f2e53609b/assets/maps.gif)
 
 Here is another powerful example to create heatmap and explore your data. A heatmap is slightly more interesting way to represent data.  Data values are represented as colors in heatmap. Heatmap uses color in order to represent a value. This is a great tool to assist when you have a large volume of data.
 
 Check out the demo [here](https://hub.gke2.mybinder.org/user/dhankie-notebooks-uto9gqfg/notebooks/ipywidgets_demo.ipynb)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4354af93-332a-454c-beaa-5640fbc06dd4/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4354af93-332a-454c-beaa-5640fbc06dd4/Untitled.png)
+Here is a sample -
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bf0b6694-352f-4934-9a65-c56f1f931c1d/Untitled.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bf0b6694-352f-4934-9a65-c56f1f931c1d/Untitled.gif)
+![](https://github.com/Archana-blog/product/blob/9590396cc9af0e30ad12a384f684fc4f2e53609b/assets/heatmap.gif)
 
 ## Sharing interactive dashboards with your team using ReviewNB
 
@@ -116,15 +116,15 @@ Here is how ReviewNB can help you and your team to manage your work effectively 
 
 1. **Rich Diff** -You can review and verify diffs side by side easily. GitHub diffs are not very visually appealing but with ReviewNB you can check out diffs in a more human-readable format.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f82b805d-24ea-4996-aa52-a5522c8e10f9/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f82b805d-24ea-4996-aa52-a5522c8e10f9/Untitled.png)
+![](https://github.com/Archana-blog/product/blob/9590396cc9af0e30ad12a384f684fc4f2e53609b/assets/rich_diff.png)
 
-1. **Cell comments -** You can initiate discussions on any notebook cell within ReviewNB. This helps avoid any confusion while discussing with your teammates. You don't have to keep track of which comment corresponds to which cell. ReviewNB allows you to do that with this sleek feature.
+2. **Cell comments -** You can initiate discussions on any notebook cell within ReviewNB. This helps avoid any confusion while discussing with your teammates. You don't have to keep track of which comment corresponds to which cell. ReviewNB allows you to do that with this sleek feature.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fc0df8fb-8ee4-491f-84d0-5915f29aff99/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fc0df8fb-8ee4-491f-84d0-5915f29aff99/Untitled.png)
+![](https://github.com/Archana-blog/product/blob/9590396cc9af0e30ad12a384f684fc4f2e53609b/assets/cell_comment.png)
 
-1. **Resolving open threads and conversations** - Once you have reviewed the changes, you can resolve and close the open discussions and share your insights with your team.
+3. **Resolving open threads and conversations** - Once you have reviewed the changes, you can resolve and close the open discussions and share your insights with your team.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/51d57a5e-8d12-42d7-80d4-7d4babd2716e/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/51d57a5e-8d12-42d7-80d4-7d4babd2716e/Untitled.png)
+![](https://github.com/Archana-blog/product/blob/9590396cc9af0e30ad12a384f684fc4f2e53609b/assets/resolve_conflict.png)
 
 Check this [here](https://app.reviewnb.com/Dhankie/notebooks/pull/1/discussion/) 
 
@@ -134,19 +134,19 @@ With ReviewNB there are several other advantages. Here are a few more -
 
 1. **Easy integration with GitHub -** You don't have to do any complex configuration to use ReviewNb with your notebooks. Just select a repo once you successfully log in to ReviewNB. Once your github is integrated with ReviewNB, you can see a "ReviewNB" button that can take you ReviewNB UI. 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fa2a24e2-6dfc-480c-8329-8c07f0c95bc1/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fa2a24e2-6dfc-480c-8329-8c07f0c95bc1/Untitled.png)
+![](https://github.com/Archana-blog/product/blob/9590396cc9af0e30ad12a384f684fc4f2e53609b/assets/easy_integration.png)
 
 Check this [here](https://github.com/Dhankie/notebooks/pull/1)
 
-1. **Easy history logs** - You can see who has committed when and how often. You can also see pull requests history. 
+2. **Easy history logs** - You can see who has committed when and how often. You can also see pull requests history. 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1db79781-48b5-48b3-b2f2-4905e2f4816e/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1db79781-48b5-48b3-b2f2-4905e2f4816e/Untitled.png)
+![](https://github.com/Archana-blog/product/blob/9590396cc9af0e30ad12a384f684fc4f2e53609b/assets/list.png)
 
 Check this out [here](https://app.reviewnb.com/Dhankie/notebooks/commits/)
 
-1. **Easily finish and discard reviews** - You have the option of discarding and finishing your comments and reviews.
+3. **Easily finish and discard reviews** - You have the option of discarding and finishing your comments and reviews.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/67d778d3-1f58-452f-8375-e5808b3e9786/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/67d778d3-1f58-452f-8375-e5808b3e9786/Untitled.png)
+![](https://github.com/Archana-blog/product/blob/9590396cc9af0e30ad12a384f684fc4f2e53609b/assets/rich_diff2.png)
 
 ## Final Thoughts
 
